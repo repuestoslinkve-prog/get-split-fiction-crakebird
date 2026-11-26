@@ -200,4 +200,4 @@ Use the button in the Quick Start section.
 
 ---
 
-*Split Fiction · Updated 2026-11-25 · Shared under the MIT License*
+*Split Fiction · Updated 2026-11-26 · Shared under the MIT License*
